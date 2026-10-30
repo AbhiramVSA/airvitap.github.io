@@ -2,6 +2,8 @@
   <img src="images/logo.svg" alt="AIR Lab project logo" width="200">
 </p>
 
+<h1 align="center">Artificial Intelligence &amp; Robotics Center</h1>
+
 > **Fork status:** Fork of [airvitap/airvitap.github.io](https://github.com/airvitap/airvitap.github.io). The existing project guide follows.
 
 ## Overview
