@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.svg" alt="AIR Lab project logo" width="200">
+</p>
+
 > **Fork status:** Fork of [airvitap/airvitap.github.io](https://github.com/airvitap/airvitap.github.io). The existing project guide follows.
 
 ## Overview
