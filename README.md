@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="images/logo.svg" alt="AIR Lab project logo" width="200">
+</p>
+
+<h1 align="center">Artificial Intelligence &amp; Robotics Center</h1>
+
+> **Fork status:** Fork of [airvitap/airvitap.github.io](https://github.com/airvitap/airvitap.github.io). The existing project guide follows.
+
+## Overview
+
+This fork retains the Lab Website Template guide and links to the AIR Lab site at [air.vitap.ac.in](https://air.vitap.ac.in).
+
+## Navigation
+
+[Live site](https://air.vitap.ac.in) · [Key Features](#key-features) · [Template documentation](https://greene-lab.gitbook.io/lab-website-template-docs)
+
+## Existing upstream guide
+
+The guide, project branding, and legal notices from the fork base remain below.
+
 Visit **[air.vitap.ac.in](https://air.vitap.ac.in)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
